@@ -1,0 +1,11 @@
+18:52:59.132829 IP 10.0.2.5.ftp-data > vm2-VirtualBox.666: Flags [FPU], seq 0, win 8192, urg 0, length 0
+18:52:59.133728 IP 10.0.2.5.ftp-data > vm2-VirtualBox.666: Flags [FPU], seq 2035904858, win 8192, urg 0, length 0
+18:52:59.134958 IP 10.0.2.5.ftp-data > vm2-VirtualBox.666: Flags [FPU], seq 1196769345, win 8192, urg 0, length 0
+18:52:59.135397 IP 10.0.2.5.ftp-data > vm2-VirtualBox.666: Flags [FPU], seq 1918391131, win 8192, urg 0, length 0
+18:52:59.136846 IP 10.0.2.5.ftp-data > vm2-VirtualBox.666: Flags [FPU], seq 1599430214, win 8192, urg 0, length 0
+18:52:59.137202 IP 10.0.2.5.ftp-data > vm2-VirtualBox.666: Flags [FPU], seq 1918653254, win 8192, urg 0, length 0
+18:52:59.138150 IP 10.0.2.5.ftp-data > vm2-VirtualBox.666: Flags [FPU], seq 1114598762, win 8192, urg 0, length 0
+18:52:59.138541 IP 10.0.2.5.ftp-data > vm2-VirtualBox.666: Flags [FPU], seq 4294967295, win 8192, urg 0, length 0
+18:53:04.205506 ARP, Request who-has vm2-VirtualBox tell 10.0.2.5, length 46
+18:53:04.339636 ARP, Reply 10.0.2.5 is-at 08:00:27:ce:94:09 (oui Unknown), length 46
+
